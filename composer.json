@@ -1,0 +1,21 @@
+{
+    "name": "shopyz/blog",
+    "description": "this is a test project",
+    "type": "1",
+    "require": {
+        "php": "^7.2"
+    },
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "Shopyz\\": "src/shopyz"
+        }
+    },
+    "authors": [
+        {
+            "name": "yangzhou",
+            "email": "yangzhou2224@stnts.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
